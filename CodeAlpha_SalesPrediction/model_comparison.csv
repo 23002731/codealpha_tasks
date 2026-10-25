@@ -1,0 +1,6 @@
+Model,CV R2,Test R2,Test MAE,Test RMSE
+Linear + engineered features,0.9806,0.9885,0.4912,0.6013
+Gradient Boosting,0.9672,0.9831,0.6187,0.7298
+Random Forest,0.966,0.9826,0.6139,0.7406
+"Linear (TV, Radio)",0.8736,0.9006,1.4443,1.7714
+"Linear (TV, Radio, Newspaper)",0.8703,0.8994,1.4608,1.7816
